@@ -1,0 +1,10 @@
+@font-face {
+    font-family: "Quirky Stitch";
+    src:url("../containers/Quirky Stitch.ttf") format("truetype");
+  }
+
+h1 {
+    color: #fafafa;
+    font-family: 'Quirky Stitch';
+    font-size: 40px;
+}
