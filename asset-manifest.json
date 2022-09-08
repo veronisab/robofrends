@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/veronisab/robofrends/static/css/main.0f58762b.css",
-    "main.js": "/veronisab/robofrends/static/js/main.4d7eb535.js",
-    "static/js/787.3d886837.chunk.js": "/veronisab/robofrends/static/js/787.3d886837.chunk.js",
-    "static/media/Quirky Stitch.ttf": "/veronisab/robofrends/static/media/Quirky Stitch.488d53e3a5c350743449.ttf",
-    "index.html": "/veronisab/robofrends/index.html",
-    "main.0f58762b.css.map": "/veronisab/robofrends/static/css/main.0f58762b.css.map",
-    "main.4d7eb535.js.map": "/veronisab/robofrends/static/js/main.4d7eb535.js.map",
-    "787.3d886837.chunk.js.map": "/veronisab/robofrends/static/js/787.3d886837.chunk.js.map"
+    "main.css": "/robofrends/static/css/main.61a053a3.css",
+    "main.js": "/robofrends/static/js/main.e2b08a7b.js",
+    "static/js/787.3d886837.chunk.js": "/robofrends/static/js/787.3d886837.chunk.js",
+    "static/media/Quirky Stitch.ttf": "/robofrends/static/media/Quirky Stitch.488d53e3a5c350743449.ttf",
+    "index.html": "/robofrends/index.html",
+    "main.61a053a3.css.map": "/robofrends/static/css/main.61a053a3.css.map",
+    "main.e2b08a7b.js.map": "/robofrends/static/js/main.e2b08a7b.js.map",
+    "787.3d886837.chunk.js.map": "/robofrends/static/js/787.3d886837.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.0f58762b.css",
-    "static/js/main.4d7eb535.js"
+    "static/css/main.61a053a3.css",
+    "static/js/main.e2b08a7b.js"
   ]
 }
